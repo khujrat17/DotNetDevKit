@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\DotNetDevKit.xml</DocumentationFile>
+    
+    <!-- NuGet Package Metadata -->
+    <PackageId>DotNetDevKit</PackageId>
+    <Version>1.0.0</Version>
+    <Title>DotNetDevKit</Title>
+    <Authors>Shaikh Khujrat</Authors>
+    <Description>A powerful NuGet package providing automatic dependency injection registration, standardized API response wrappers, and a developer debug dashboard for ASP.NET Core applications.</Description>
+    <PackageProjectUrl>https://github.com/khujrat17/DotNetDevKit</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/khujrat17/DotNetDevKit</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>
+		aspnetcore;asp.net-core;dependency-injection;di-container;service-registration;
+		api-response;api-wrapper;response-wrapper;debug-dashboard;development-tools;
+		devtools;monitoring;health-check;exception-handling;middleware;web-api;mvc;
+		microservices;saas;enterprise;dotnet;csharp;c-sharp;toolkit;utilities;helpers;
+		extensions;net6;net7;net8
+	</PackageTags>
+    <PackageReleaseNotes>Initial release with AutoServiceRegistrar, ApiResponseKit, and DevDebugDashboard</PackageReleaseNotes>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>
