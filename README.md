@@ -712,10 +712,10 @@ For issues, feature requests, or questions:
 - [Dependency Injection in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/dependency-injection)
 - [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [NuGet Package Best Practices](https://docs.microsoft.com/en-us/nuget/create-packages/publish-a-package)
-- [GitHub Repository](https://github.com/yourusername/DotNetDevKit)
+- [GitHub Repository](https://github.com/khujrat17/DotNetDevKit)
 - [NuGet Package Page](https://www.nuget.org/packages/DotNetDevKit)
-- [Releases](https://github.com/yourusername/DotNetDevKit/releases)
-- [Project Wiki](https://github.com/yourusername/DotNetDevKit/wiki)
+- [Releases](https://github.com/khujrat17/DotNetDevKit/releases)
+- [Project Wiki](https://github.com/khujrat17/DotNetDevKit/wiki)
 
 ## 📈 Changelog
 
