@@ -682,7 +682,7 @@ dotnet test  # If tests are available
 
 ### Report Bugs
 
-Found a bug? Please report it on [GitHub Issues](https://github.com/yourusername/DotNetDevKit/issues) with:
+Found a bug? Please report it on [GitHub Issues](https://github.com/khujrat17/DotNetDevKit/issues) with:
 - Description of the issue
 - Steps to reproduce
 - Expected behavior
