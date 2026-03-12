@@ -8,7 +8,7 @@
 
 **[GitHub](https://github.com/yourusername/DotNetDevKit)** | **[NuGet](https://www.nuget.org/packages/DotNetDevKit)** | **[Documentation](https://github.com/yourusername/DotNetDevKit/wiki)** | **[Issues](https://github.com/yourusername/DotNetDevKit/issues)** | **[Discussions](https://github.com/yourusername/DotNetDevKit/discussions)**
 
-## 🎯 Overview
+## 🎯Overview
 
 DotNetDevKit is a comprehensive toolkit designed to streamline ASP.NET Core development by providing three powerful features in a single, easy-to-use package:
 
@@ -23,9 +23,9 @@ Perfect for:
 - SaaS Platforms
 - Enterprise Applications
 
-## ✨ Key Features
+## ✨Key Features
 
-### 1️⃣ Automatic Service Registration
+### 1️⃣Automatic Service Registration
 
 Mark services with a single attribute and let DotNetDevKit handle registration:
 
@@ -47,7 +47,7 @@ public class CacheService : ICacheService { }
 - Namespace filtering support
 - No manual registration needed
 
-### 2️⃣ Standardized API Responses
+### 2️⃣Standardized API Responses
 
 Every API endpoint returns a consistent response format:
 
